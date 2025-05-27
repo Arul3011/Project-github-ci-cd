@@ -1,0 +1,19 @@
+# Node modules and logs
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+
+# Docker-related
+Dockerfile
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
