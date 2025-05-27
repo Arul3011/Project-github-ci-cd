@@ -24,5 +24,5 @@ jobs:
        with: 
         context: .
         push: true
-        tags: arul8406/test-repo:v1.0
+        tags: arul8406/test-repo:v1.1
 
